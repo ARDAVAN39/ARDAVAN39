@@ -21,6 +21,7 @@ and keep my hands on the full stack.
 | Project | What it is | Stack |
 |---|---|---|
 | [docuextract](https://github.com/ARDAVAN39/docuextract) | Turns PDFs and scans into structured JSON with OCR and a local LLM | Java 21, Spring Boot, PostgreSQL, Tesseract, Ollama |
+| [orderflow](https://github.com/ARDAVAN39/orderflow) | Event-driven order service with idempotent Kafka consumers and a native image | Java 21, Quarkus, MongoDB, Kafka, GraalVM |
 
 More on the way.
 
